@@ -1,0 +1,1 @@
+The tank performs a defensive tracking motion in place, with the turret following an imaginary fast-moving airborne target across the sky. The guns sweep from low to high, the missile launcher adjusts with the motion, and the radar keeps scanning throughout.

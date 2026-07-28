@@ -1,0 +1,1 @@
+A fox performs a smooth trot in place with a natural full-body bounce. Its head stays steady, the tail counterbalances the motion, and the animation loops cleanly over 3-4 seconds.

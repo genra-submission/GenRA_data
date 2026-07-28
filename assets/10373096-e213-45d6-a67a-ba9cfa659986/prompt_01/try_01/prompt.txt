@@ -1,0 +1,1 @@
+The blob compresses from back to front and performs a short slug-like scoot forward in place, with a smooth body ripple traveling through it.

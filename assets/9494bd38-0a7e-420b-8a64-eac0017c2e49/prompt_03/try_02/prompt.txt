@@ -1,0 +1,1 @@
+The spider robot pivots in place as if tracking a target, turning left and then right with quick coordinated leg steps. Its body dips slightly during the turn, and the tail tilts to counterbalance.

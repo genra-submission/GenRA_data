@@ -1,0 +1,1 @@
+The robot head suddenly snaps to one side as if detecting a target, then the side cannon swings forward, holds for a brief aim, fires with a sharp recoil, and returns to its neutral pose.

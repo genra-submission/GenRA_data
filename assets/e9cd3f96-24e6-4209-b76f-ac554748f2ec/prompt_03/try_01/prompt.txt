@@ -1,0 +1,1 @@
+The hovering robot makes a cautious scouting motion, drifting left, then right, while lightly tilting its body and rotating to look around before returning to center.

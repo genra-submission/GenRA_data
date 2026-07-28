@@ -1,0 +1,1 @@
+The drone briefly loses stability, wobbling and dipping to one side as the rotors keep spinning, then corrects itself and regains a perfectly balanced hover.

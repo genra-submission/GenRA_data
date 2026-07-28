@@ -1,0 +1,1 @@
+A spider robot performs a steady forward walk cycle in place with an alternating six-leg gait. The body stays low and stable with a slight rhythmic bob, and the tail follows with a small natural sway.

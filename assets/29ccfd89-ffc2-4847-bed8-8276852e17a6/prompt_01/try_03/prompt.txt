@@ -1,0 +1,1 @@
+A small attached sensor arm swings outward, pivots up as if taking a reading, then folds back in while the main thermometer remains mostly steady.

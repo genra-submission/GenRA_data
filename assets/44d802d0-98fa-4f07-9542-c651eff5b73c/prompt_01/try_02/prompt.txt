@@ -1,0 +1,1 @@
+The dragon hovers in place with slow powerful wingbeats, its body bobbing gently as the neck sways and the tail trails behind. Animation should last 3-4 seconds and loop smoothly.

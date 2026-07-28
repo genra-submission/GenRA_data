@@ -1,0 +1,1 @@
+A short password-entry style animation plays: several keys press one after another with precise pauses, then the space bar is tapped twice before everything returns to neutral.

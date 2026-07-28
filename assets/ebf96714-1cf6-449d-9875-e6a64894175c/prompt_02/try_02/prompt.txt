@@ -1,0 +1,1 @@
+The antenna slowly sweeps left and right as if searching for signal while the tuning knob rotates in small increments, then both pause briefly before returning to center.

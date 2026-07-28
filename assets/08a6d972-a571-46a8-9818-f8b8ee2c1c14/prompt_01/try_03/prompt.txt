@@ -1,0 +1,1 @@
+The robot head idles in place, slowly turning left and right as if scanning the area, while the side cannon subtly tracks in short delayed motions. The movement should feel mechanical and loop smoothly.
